@@ -1,4 +1,9 @@
-### Hi there 👋
+## Mike Gleicher's GitHub Home
+
+You probably want to see my [home page](https://pages.cs.wisc.edu/~gleicher/) which is also a [GitHub Page](https://gleicher.github.io/).
+
+Most useful repositories are part of the [UW Graphics Organization](https://github.com/uwgraphics).
+There are also special purpose organizations for classes.
 
 <!--
 **gleicher/gleicher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
